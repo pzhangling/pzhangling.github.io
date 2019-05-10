@@ -1,18 +1,28 @@
-## Welcome to GitHub Pages
+## Mr Patrick Zhang Ling
 
-You can use the [editor on GitHub](https://github.com/pzhangling/pzl/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+📧 a.zhang.patrick@gmail.com |📱 +65-97556905 | 🌐 www.linkedin.com/in/patrickcv | Singaporean
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures.
+Other experience include project management, sourcing management and contract management.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### KEY COMPETENCIES
+
+•	Electrical Engineering Knowledge
+•	Mechanic Engineering Knowledge	•	Problem Solving & Analytic
+•	Contract Management
+•	Preventive Maintenance Skill	•	Sourcing and tender management
+•	Field service in repair, installation and commissioning 	•	Project Management
+•	Planning & Organizing Skill	•	Excellent Customer Relationship
+•	Negotiation Skill	•	Leadership & Team Management
+•	MS Office Applications.	•	Supplier Quality Management
+
 
 ```markdown
 Syntax highlighted code block
 
-# 
-PROFILE SUMMARY
+# PROFILE SUMMARY
+
 
 
 
