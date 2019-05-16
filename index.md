@@ -1,21 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+</style>
+</head>
+<body>
 
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<img src="avatar.png" alt="Avatar" style="width:200px">
+
+</body>
+</html>
 
 ## PROFILE SUMMARY
 Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.
 
 ## KEY COMPETENCIES
-•	Electrical Engineering Knowledge
-•	Mechanic Engineering Knowledge	•	Problem Solving & Analytic
-•	Contract Management
-•	Preventive Maintenance Skill	•	Sourcing and tender management
-•	Field service in repair, installation and commissioning 	•	Project Management
-•	Planning & Organizing Skill	•	Excellent Customer Relationship
-•	Negotiation Skill	•	Leadership & Team Management
-•	MS Office Applications.	•	Supplier Quality Management
+@@@Electrical Engineering Knowledge
+•	-Mechanic Engineering Knowledge	•	Problem Solving & Analytic
+•	-Contract Management
+•	-Preventive Maintenance Skill	•	Sourcing and tender management
+•	-Field service in repair, installation and commissioning 	•	Project Management
+•	-Planning & Organizing Skill	•	Excellent Customer Relationship
+•	-Negotiation Skill	•	Leadership & Team Management
+•	-MS Office Applications.	•	Supplier Quality Management
 
 ## EXPERIENCE
 
-# JAN 2015-NOV 2018 (SINGAPORE) Senior Engineer 
+### JAN 2015-NOV 2018 (SINGAPORE) Senior Engineer 
 -NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)
 •	Support of user as a technical expert to present complex technical. 
 •	Carry out ad-hoc and scheduled service for clinical equipment.
