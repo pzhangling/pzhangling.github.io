@@ -14,8 +14,6 @@ body {
 
 <h1>Patrick Zhang Ling</h1>
 <p>This is a paragraph.</p>
-<img src="avatar.png" alt="Avatar" style="width:200px">
-
 </body>
 </html>
 <iframe src="https://onedrive.live.com/embed?cid=09BEAB12174B4537&resid=9BEAB12174B4537%2127597&authkey=ALnEA9-0kJI3CDo&em=2" width="800" height="1000" frameborder="0" scrolling="yes"></iframe>
