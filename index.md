@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Patrick</title>
 <style>
 body {
   background-color: black;
@@ -13,7 +12,7 @@ body {
 <body>
 
 <h1>Patrick Zhang Ling</h1>
-<p>This is a paragraph.</p>
+<p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p>
 </body>
 </html>
 <iframe src="https://onedrive.live.com/embed?cid=09BEAB12174B4537&resid=9BEAB12174B4537%2127597&authkey=ALnEA9-0kJI3CDo&em=2" width="800" height="1000" frameborder="0" scrolling="yes"></iframe>
