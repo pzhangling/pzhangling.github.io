@@ -58,13 +58,18 @@ Drafting the technical specifications of the tender documents, participate in th
 - Ng Teng Fong General Hospital
 Participate in the planning of hospital medical equipment, drafting the technical specifications of the tender documents, participate in the assessment, installation, commissioning, and signed follow-up service contract. (The project is ongoing in progress).
 
-### SEPT 2008-JAN 2015 (SINGAPORE)	Senior Field Service Engineer 
-ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
-•	Onsite and remote service support for diagnosing and analyzing causes of production failures for the surgical microscopes parts and modules.
-•	To provide problem-solving, troubleshooting, and follow-up for customer’s issues.
+### SEPT 2008-JAN 2015 (SINGAPORE) **Senior Field Service Engineer** at ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
+- To provide problem-solving, troubleshooting for the surgical microscopes parts and modules, and follow-up for customer’s issues.
+- Onsite and remote service support for diagnosing and analyzing causes of production failures and write the reports that describe in detail of the system and device failure and actions taken. Review the system problem and solution with the Design Engineering department.
+- Work with engineering department to develop installation task lists and designs.
 
-June 2011 Promoted as a QA Manager 
-•	To maintain a high level of quality in the productions. Measure, benchmark and monitor processes to ensure that the best practices of TQM and statistical process control are applied in predominantly bespoke and semi-customized manufacturing operations.
+ June 2011 Promoted as a **QA Manager** 
+- To maintain a high level of quality in the productions. Measure, benchmark and monitor processes to ensure that the best practices of TQM and statistical process control are applied in predominantly bespoke and semi-customized manufacturing operations.
+
+ **Accomplishments：**
+- Served as a project leader and set up the surgical microscope module assembly line for Leica Microsystems (SEA) Pte Ltd.
+- Lead a project to supply casting parts for Panasonic SMT machine which are aimed to drive quality improvements. Achieved pass rate increment from 70% to 95% and helped the customer to cut cost by $1 million SGD per month.
+
 ### AUG 2003–SEPT 2008 (SINGAPORE)
 	Electrical Engineer 
 NISSHO ENGINEERING PTE LTD.-(Project Based Engineering Services for Heavy Industries) 
