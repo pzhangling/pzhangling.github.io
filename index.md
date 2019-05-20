@@ -44,7 +44,8 @@ Begin with 13 years of experiences in electrical engineering, training & develop
 - Interface directly with vendors and users to define service contract requirements, to negotiate the price and sign the service contract.
 - Writing procurement specifications for tender and sourcing, develop evaluation criteria to compare patient care equipment and devices under consideration for purchase.
 - Manage and control tools, test and measurement equipment, technical documentation and other assigned equipment.
-**Accomplishments:**
+
+ **Accomplishments:**
 - SERVICE CONTRACT: 
 Manage and singed service contract with 87 vendors to maintain the 4500 units of medical equipment.
 
