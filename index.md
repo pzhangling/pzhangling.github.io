@@ -15,7 +15,7 @@ body {
 <p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p>
 </body>
 </html>
-<iframe src="https://photos.app.goo.gl/6G8wBS9hBA6L5uZz6" width="300" height="500" frameborder="0" scrolling="yes"></iframe>
+https://sqstia.ch.files.1drv.com/y4mZwkFf-RO1Ci6UOJpNPUNsaRiES8XJ3Yhn36Jm8qcuS8tjF2KhZvoJGcjZ--DVd4FEhNhhgSD9Q6NgffMFLW5bjn__Rzm0GVCbMId-y_pZpZa86jz7etP4tTqLFpOXf0X8QLo4LbuWOXb7e8rWxCdblpAuE8DZ4BWYvyn76Q-wi6RGbaoJvpdVfuLVZwGVubrdgHSXDtrbieW4d3M2lLqyA?width=448&height=562&cropmode=none
 
 ## PROFILE SUMMARY
 Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.
