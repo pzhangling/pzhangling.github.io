@@ -14,7 +14,6 @@ body {
 
 <img src="https://sqstia.ch.files.1drv.com/y4mZwkFf-RO1Ci6UOJpNPUNsaRiES8XJ3Yhn36Jm8qcuS8tjF2KhZvoJGcjZ--DVd4FEhNhhgSD9Q6NgffMFLW5bjn__Rzm0GVCbMId-y_pZpZa86jz7etP4tTqLFpOXf0X8QLo4LbuWOXb7e8rWxCdblpAuE8DZ4BWYvyn76Q-wi6RGbaoJvpdVfuLVZwGVubrdgHSXDtrbieW4d3M2lLqyA?width=204&height=256&cropmode=none" width="204" height="256" />
 <p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p>
-</body>
 
 </html>
 
@@ -22,8 +21,8 @@ body {
 Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.
 
 ## KEY COMPETENCIES
-/-Electrical Engineering Knowledge
-/-Mechanic Engineering Knowledge	•	Problem Solving & Analytic
+##### -Electrical Engineering Knowledge
+##### -Mechanic Engineering Knowledge	•	Problem Solving & Analytic
 /-Contract Management
 -Preventive Maintenance Skill	•	Sourcing and tender management
 -Field service in repair, installation and commissioning 	•	Project Management
