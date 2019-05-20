@@ -57,7 +57,8 @@ Participate in the planning of hospital medical equipment, drafting the technica
 
 <img src="https://sastia.ch.files.1drv.com/y4mafAQA54qB3uA7_AppRknf5XM_2V_4mNbOK1qOnUg7xS6v_Dz1-2LCGogOJxrgQD-tBD0Pso6NT2pyLshJFkddPXfd1B5h-gdIXRTpFZQCVMtjqQyf8DrXjecl_qG0gf26VSLgSVau8hrhPymPoZlNQvPO97L1EqS4Plt8qvA1YbjWJZB6ufUeDVY3I4l-2T0wlcbLQtH5JA8GUYbz53FJQ?width=875&height=354&cropmode=none" width="910" height="350" />
 
-### SEPT 2008-JAN 2015 (SINGAPORE) **Senior Field Service Engineer** at ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
+### **Senior Field Service Engineer** at ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
+#### SEPT 2008-JAN 2015 (SINGAPORE)
 - To provide problem-solving, troubleshooting for the surgical microscopes parts and modules, and follow-up for customer’s issues.
 - Onsite and remote service support for diagnosing and analyzing causes of production failures and write the reports that describe in detail of the system and device failure and actions taken. Review the system problem and solution with the Design Engineering department.
 - Work with engineering department to develop installation task lists and designs.
@@ -69,7 +70,10 @@ Participate in the planning of hospital medical equipment, drafting the technica
 - Served as a project leader and set up the surgical microscope module assembly line for Leica Microsystems (SEA) Pte Ltd.
 - Lead a project to supply casting parts for Panasonic SMT machine which are aimed to drive quality improvements. Achieved pass rate increment from 70% to 95% and helped the customer to cut cost by $1 million SGD per month.
 
-### AUG 2003–SEPT 2008 (SINGAPORE) **Electrical Engineer** at NISSHO ENGINEERING PTE LTD.-(Project Based Engineering Services for Heavy Industries) 
+<img src="https://skstia.ch.files.1drv.com/y4m1Ez2y9NqZQplQwaz_ngXDiotQfLaBPqzjE_p3DePTB0DhqiGg4Usq0qDjpHz6voxF-XZYw5QW4AEE6PTtPLuKJWeiLBC66UVotkAH53XDIXjwDfYfOPOGRDompztNM0e2y47vL3mV6jG7vzNmz0bEVNdE6UQPv_wJT0DCOh3MEkuUlOHaiBTV8hHpk4y_0uJCruFXk9Q_jGfZZfznVIcsw?width=827&height=285&cropmode=none" width="827" height="285" />
+
+### **Electrical Engineer** at NISSHO ENGINEERING PTE LTD.-(Project Based Engineering Services for Heavy Industries) 
+#### AUG 2003–SEPT 2008 (SINGAPORE)
 - Supervise/perform commissioning, fault diagnosis, troubleshooting and maintenance of the heave crane system onsite.
 - To planning & organizing the commissioning process, perform the role of Lead Engineer when appointed, and follow-up for customer’s issues.
 - Manage external vendor and contractors to deliver subsystems that meet design specification and reliability, integrate and test subsystems.
@@ -77,7 +81,8 @@ Participate in the planning of hospital medical equipment, drafting the technica
 **Accomplishments：**
 - Successes commissioning for the Overhead Wire Rope Operated Cranes 5 units at “Tuas South Incineration Plant” which made by German Noell Crane Systems GmbH, controlled by Siemens PLC and SIMATIC
  
-### SEPT 1996 –AUG 2003 (SINGAPORE) **Project Engineer** at MODUVEYOR PTE LTD.-(Project Based Engineering Services for Industrial Packaging System) 
+### **Project Engineer** at MODUVEYOR PTE LTD.-(Project Based Engineering Services for Industrial Packaging System)
+#### SEPT 1996 –AUG 2003 (SINGAPORE)
 - Carry out designs, installations, and commissioning, preventative maintenance for the automatic conveyor system in various industries (Food & Packaging, Personal Products, Pharmaceuticals, Paper Products and Electrical & Industrial Products), including electric, PLC programmer. 
 - Managing small teams (internal and Client stakeholders) during engagements. Leading teams and supporting high levels of performance and conducting work efforts as needed: prioritizing conflicting demands/needs.
 - Managing project financials – budget, timeline, expenses, staffing.
