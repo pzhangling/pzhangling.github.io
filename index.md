@@ -44,6 +44,18 @@ Begin with 13 years of experiences in electrical engineering, training & develop
 - Interface directly with vendors and users to define service contract requirements, to negotiate the price and sign the service contract.
 - Writing procurement specifications for tender and sourcing, develop evaluation criteria to compare patient care equipment and devices under consideration for purchase.
 - Manage and control tools, test and measurement equipment, technical documentation and other assigned equipment.
+**Accomplishments:**
+- SERVICE CONTRACT: 
+Manage and singed service contract with 87 vendors to maintain the 4500 units of medical equipment.
+
+- MAGNETIC RESONANCE IMAGING (GE SIGNA HORIZON LX 1.5T ECHOSPEED):
+Drafting the technical specifications of the tender documents, participate in the assessment, installation, and commissioning, signed follow-up service contract.
+
+- MAGNETIC RESONANCE IMAGING (SIEMENS MAGNETOM SKYRA)
+Drafting the technical specifications of the tender documents, participate in the assessment, installation, and commissioning, signed follow-up service contract.
+
+- Ng Teng Fong General Hospital
+Participate in the planning of hospital medical equipment, drafting the technical specifications of the tender documents, participate in the assessment, installation, commissioning, and signed follow-up service contract. (The project is ongoing in progress).
 
 ### SEPT 2008-JAN 2015 (SINGAPORE)	Senior Field Service Engineer 
 ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
