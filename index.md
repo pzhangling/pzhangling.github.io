@@ -11,9 +11,8 @@ body {
 </head>
 
 <h1>Patrick Zhang Ling</h1>
-</style>
-![editormd-screenshot]
-(<img src="https://rqstia.ch.files.1drv.com/y4mZVTSxeIV8JFRqLvbR9RZOpEzr93yeAEtx0YpcFaK-wcdNV9cffKfvbwTcOzthKJDcEYH2JXslT9fQMgNK75kQh4ArnZkJevlC4hGTFZFE5lYSOwE4RQWq5KiKW2APYLs1gVTNhqvWo4zLlyZVnXkTSn7m5K5L16Wo62HDIxCqL6sO3rNTVcqznL05anQmIS2FKfB7UxukMPiJE3nMcTpOA?width=777&height=334&cropmode=none" width="777" height="334" /> "editormd-screenshot")
+
+<img src="https://rqstia.ch.files.1drv.com/y4mZVTSxeIV8JFRqLvbR9RZOpEzr93yeAEtx0YpcFaK-wcdNV9cffKfvbwTcOzthKJDcEYH2JXslT9fQMgNK75kQh4ArnZkJevlC4hGTFZFE5lYSOwE4RQWq5KiKW2APYLs1gVTNhqvWo4zLlyZVnXkTSn7m5K5L16Wo62HDIxCqL6sO3rNTVcqznL05anQmIS2FKfB7UxukMPiJE3nMcTpOA?width=777&height=334&cropmode=none" width="777" height="334" />
 
 </html>
 
