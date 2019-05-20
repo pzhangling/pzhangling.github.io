@@ -4,7 +4,7 @@
 <style>
 body {
   background-color: white;
-  text-align: left;
+  text-align: center;
   color: black;
 }
 </style>
