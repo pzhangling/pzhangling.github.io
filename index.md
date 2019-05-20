@@ -33,7 +33,8 @@ body {
 
 ## EXPERIENCE
 
-###  JAN 2015-NOV 2018 (SINGAPORE) **Senior Engineer** at NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)
+###  **Senior Engineer** at NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)  
+#### JAN 2015-NOV 2018 (SINGAPORE) 
 - Provide failure analysis and technical support for clinical equipment. 
 - Installation, commissioning, maintenance and repair the electrical and mechanical equipment and systems for the clinical users.
 - Manage all facets of project (budget, schedule, procurement, bid specifications, analysis of vendor proposals, installation planning, acceptance testing, renovations, equipment upgrades, and quality & risk management). 
@@ -53,6 +54,8 @@ Drafting the technical specifications of the tender documents, participate in th
 
 - Ng Teng Fong General Hospital
 Participate in the planning of hospital medical equipment, drafting the technical specifications of the tender documents, participate in the assessment, installation, commissioning, and signed follow-up service contract. (The project is ongoing in progress).
+
+<img src="https://sastia.ch.files.1drv.com/y4mafAQA54qB3uA7_AppRknf5XM_2V_4mNbOK1qOnUg7xS6v_Dz1-2LCGogOJxrgQD-tBD0Pso6NT2pyLshJFkddPXfd1B5h-gdIXRTpFZQCVMtjqQyf8DrXjecl_qG0gf26VSLgSVau8hrhPymPoZlNQvPO97L1EqS4Plt8qvA1YbjWJZB6ufUeDVY3I4l-2T0wlcbLQtH5JA8GUYbz53FJQ?width=875&height=354&cropmode=none" width="875" height="354" />
 
 ### SEPT 2008-JAN 2015 (SINGAPORE) **Senior Field Service Engineer** at ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
 - To provide problem-solving, troubleshooting for the surgical microscopes parts and modules, and follow-up for customer’s issues.
