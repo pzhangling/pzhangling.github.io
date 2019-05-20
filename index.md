@@ -74,13 +74,15 @@ Participate in the planning of hospital medical equipment, drafting the technica
 - Supervise/perform commissioning, fault diagnosis, troubleshooting and maintenance of the heave crane system onsite.
 - To planning & organizing the commissioning process, perform the role of Lead Engineer when appointed, and follow-up for customer’s issues.
 - Manage external vendor and contractors to deliver subsystems that meet design specification and reliability, integrate and test subsystems.
- **Accomplishments：**
+ 
+  **Accomplishments：**
 - Successes commissioning for the Overhead Wire Rope Operated Cranes 5 units at “Tuas South Incineration Plant” which made by German Noell Crane Systems GmbH, controlled by Siemens PLC and SIMATIC
  
 ### SEPT 1996 –AUG 2003 (SINGAPORE) **Project Engineer** at MODUVEYOR PTE LTD.-(Project Based Engineering Services for Industrial Packaging System) 
 - Carry out designs, installations, and commissioning, preventative maintenance for the automatic conveyor system in various industries (Food & Packaging, Personal Products, Pharmaceuticals, Paper Products and Electrical & Industrial Products), including electric, PLC programmer. 
 - Managing small teams (internal and Client stakeholders) during engagements. Leading teams and supporting high levels of performance and conducting work efforts as needed: prioritizing conflicting demands/needs.
 - Managing project financials – budget, timeline, expenses, staffing.
+
  **Accomplishments：**
 - Design, installation and commissioning the production lines for total 600 meters in 9 production lines for HP printer cartridge.
 - Design, installation and commissioning the production lines for total 400 meters in 2 production lines for the Energizer battery.
@@ -88,11 +90,11 @@ Participate in the planning of hospital medical equipment, drafting the technica
 
 ## EDUCATION	
  **BACHELOR OF INDUSTRIAL AUTOMATION ENGINEERING(B.ENG)**
-- XI'AN JIAOTONG UNIVERSITY (CHIAN)
+- **XI'AN JIAOTONG UNIVERSITY (CHIAN)**
 - Related Coursework: Electronics & electrical circuits, Automation technology, Open & Closed Loop Control, Logical Sequence Controls, AC/DC Motor Controls, Converters and Inverters, etc.
 
  **ADVANCED DIPLOMA IN INDUSTRIAL ENGINEERING & MANAGEMENT**
-- NGEE ANN POLYTECHNIC (SINGAPORE)
+- **NGEE ANN POLYTECHNIC (SINGAPORE)
 - Related Coursework: Project Management, Technology Management, Quality
 Engineering, Operations Research, Productivity & Performance Mgmt.
 
