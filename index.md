@@ -18,7 +18,9 @@ body {
 
 <html>
 <body>
+
 ## PROFILE SUMMARY
+
 Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.
 
 ## KEY COMPETENCIES
