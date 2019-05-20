@@ -10,7 +10,7 @@ body {
 </style>
 </head>
 
-<h1>Patrick Zhang Ling</h1>
+<h1>Patrick **Zhang** Ling</h1>
 
 <img src="https://sqstia.ch.files.1drv.com/y4mZwkFf-RO1Ci6UOJpNPUNsaRiES8XJ3Yhn36Jm8qcuS8tjF2KhZvoJGcjZ--DVd4FEhNhhgSD9Q6NgffMFLW5bjn__Rzm0GVCbMId-y_pZpZa86jz7etP4tTqLFpOXf0X8QLo4LbuWOXb7e8rWxCdblpAuE8DZ4BWYvyn76Q-wi6RGbaoJvpdVfuLVZwGVubrdgHSXDtrbieW4d3M2lLqyA?width=204&height=256&cropmode=none" width="204" height="256" />
 <p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p>
@@ -21,25 +21,30 @@ body {
 Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.
 
 ## KEY COMPETENCIES
-- Electrical Engineering Knowledge
-- Mechanic Engineering Knowledge	•	Problem Solving & Analytic
-- Contract Management
--Preventive Maintenance Skill	•	Sourcing and tender management
--Field service in repair, installation and commissioning 	•	Project Management
--Planning & Organizing Skill	•	Excellent Customer Relationship
--Negotiation Skill	•	Leadership & Team Management
--MS Office Applications.	•	Supplier Quality Management
+- Electrical Engineering 
+- Mechanic Engineering 
+- Biomedical Engineering.
+- Failure Analysis and Technical Support.
+- Installation, Repair, and Maintenance.
+- Project Management
+- Quality Management
+- Problem Solving & Analytic
+- Vendor Manager.
+- Excellent Customer Relationship
+- Planning & Organizing Skill
+- Leadership & Team Management
+
 
 ## EXPERIENCE
 
 ###  JAN 2015-NOV 2018 (SINGAPORE) **Senior Engineer** at NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)
-•	Support of user as a technical expert to present complex technical. 
-•	Carry out ad-hoc and scheduled service for clinical equipment.
-•	Repair clinical equipment and systems.
-•	Manage all facets of project (budget, schedule, procurement, bid specifications, analysis of vendor proposals, installation planning, acceptance testing, renovations, equipment upgrades, and quality & risk). 
-•	Interface directly with clients to define project requirements. 
-•	Writing procurement specifications for tender and sourcing, develop evaluation criteria to compare patient care equipment and devices under consideration for purchase.
-•	Manage and control tools, test equipment, technical documentation and other assigned equipment
+- Provide failure analysis and technical support for clinical equipment. 
+- Installation, commissioning, maintenance and repair the electrical and mechanical equipment and systems for the clinical users.
+- Manage all facets of project (budget, schedule, procurement, bid specifications, analysis of vendor proposals, installation planning, acceptance testing, renovations, equipment upgrades, and quality & risk management). 
+- Interface directly with vendors and users to define service contract requirements, to negotiate the price and sign the service contract.
+- Writing procurement specifications for tender and sourcing, develop evaluation criteria to compare patient care equipment and devices under consideration for purchase.
+- Manage and control tools, test and measurement equipment, technical documentation and other assigned equipment.
+
 ### SEPT 2008-JAN 2015 (SINGAPORE)	Senior Field Service Engineer 
 ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
 •	Onsite and remote service support for diagnosing and analyzing causes of production failures for the surgical microscopes parts and modules.
