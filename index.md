@@ -32,7 +32,7 @@ Begin with 13 years of experiences in electrical engineering, training & develop
 
 ## EXPERIENCE
 
-### JAN 2015-NOV 2018 (SINGAPORE) Senior Engineer at NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)
+###  JAN 2015-NOV 2018 (SINGAPORE) ** Senior Engineer ** at NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)
 •	Support of user as a technical expert to present complex technical. 
 •	Carry out ad-hoc and scheduled service for clinical equipment.
 •	Repair clinical equipment and systems.
