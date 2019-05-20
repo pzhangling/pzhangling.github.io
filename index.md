@@ -12,7 +12,7 @@ body {
 
 <h1>Patrick Zhang Ling</h1>
 </style>
-![alt text](https://github.com/pzhangling/pzhangling.github.io/blob/master/foto.jpg?width=204&height=256&cropmode=none" width="204" height="256" />"<p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p> ")
+![alt text](https://github.com/pzhangling/pzhangling.github.io/blob/master/foto.jpg"<p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p> ")
 
 <p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p>
 
