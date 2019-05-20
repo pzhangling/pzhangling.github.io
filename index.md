@@ -94,7 +94,7 @@ Participate in the planning of hospital medical equipment, drafting the technica
 - Related Coursework: Electronics & electrical circuits, Automation technology, Open & Closed Loop Control, Logical Sequence Controls, AC/DC Motor Controls, Converters and Inverters, etc.
 
  **ADVANCED DIPLOMA IN INDUSTRIAL ENGINEERING & MANAGEMENT**
-- **NGEE ANN POLYTECHNIC (SINGAPORE)
+- **NGEE ANN POLYTECHNIC (SINGAPORE)**
 - Related Coursework: Project Management, Technology Management, Quality
 Engineering, Operations Research, Productivity & Performance Mgmt.
 
@@ -102,9 +102,9 @@ Engineering, Operations Research, Productivity & Performance Mgmt.
 - Science and Technology Achievement Award ：For design production line in my Company at Apr,1990
 - Utility Model Patent: Eugenics Quick Calculation Oct 1995 obtained.
 
-## LANGUAGE	English (Advanced); Chinese (Native)
+## LANGUAGE	  **English (Advanced); Chinese (Native)**
 
-## INTERESTS	Music; Football; Hiking
+## INTERESTS	 **Music; Football; Hiking**
 ## TECHNICAL TRAINING	
 - Repairing and calibration for communication instruments at “TEMPO Company” (USA San Diego) Apr 2002 
 - Patient Monitor Service training at Philips Healthcare (Singapore). Nov 2015.
