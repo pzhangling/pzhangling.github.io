@@ -75,7 +75,7 @@ Participate in the planning of hospital medical equipment, drafting the technica
 - To planning & organizing the commissioning process, perform the role of Lead Engineer when appointed, and follow-up for customer’s issues.
 - Manage external vendor and contractors to deliver subsystems that meet design specification and reliability, integrate and test subsystems.
  
-  **Accomplishments：**
+**Accomplishments：**
 - Successes commissioning for the Overhead Wire Rope Operated Cranes 5 units at “Tuas South Incineration Plant” which made by German Noell Crane Systems GmbH, controlled by Siemens PLC and SIMATIC
  
 ### SEPT 1996 –AUG 2003 (SINGAPORE) **Project Engineer** at MODUVEYOR PTE LTD.-(Project Based Engineering Services for Industrial Packaging System) 
