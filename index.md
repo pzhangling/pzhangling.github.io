@@ -70,51 +70,54 @@ Participate in the planning of hospital medical equipment, drafting the technica
 - Served as a project leader and set up the surgical microscope module assembly line for Leica Microsystems (SEA) Pte Ltd.
 - Lead a project to supply casting parts for Panasonic SMT machine which are aimed to drive quality improvements. Achieved pass rate increment from 70% to 95% and helped the customer to cut cost by $1 million SGD per month.
 
-### AUG 2003–SEPT 2008 (SINGAPORE)
-	Electrical Engineer 
-NISSHO ENGINEERING PTE LTD.-(Project Based Engineering Services for Heavy Industries) 
-•	Onsite service support the commissioning work with SIEMENS team for the heave crane control system (made in German Noell Crane Systems GmbH, controlled by Siemens PLC and SIMATIC)
-### SEPT 1996 –AUG 2003 (SINGAPORE)
-	Project Engineer 
-MODUVEYOR PTE LTD.-(Project Based Engineering Services for Industrial Packaging System) 
-•	Carry out designs, installations, and commissioning, preventative maintenance for the automatic conveyor system in various industries (Food & Packaging, Personal Products, Pharmaceuticals, Paper Products and Electrical & Industrial Products), including electric, PLC programmer. 
-### SEPT 1982 -JUL 1996 (BAOJI, CHINA)	Electrical Engineer 
-SHAANXI FENGHUO ELECTRONICS CO. LTD.- (Electronics Manufacturing) 
-•	To commissioning, repairs and installations for the electrical equipment and systems, and coordinate with the customer.
+### AUG 2003–SEPT 2008 (SINGAPORE) **Electrical Engineer** at NISSHO ENGINEERING PTE LTD.-(Project Based Engineering Services for Heavy Industries) 
+- Supervise/perform commissioning, fault diagnosis, troubleshooting and maintenance of the heave crane system onsite.
+- To planning & organizing the commissioning process, perform the role of Lead Engineer when appointed, and follow-up for customer’s issues.
+- Manage external vendor and contractors to deliver subsystems that meet design specification and reliability, integrate and test subsystems.
+ **Accomplishments：**
+- Successes commissioning for the Overhead Wire Rope Operated Cranes 5 units at “Tuas South Incineration Plant” which made by German Noell Crane Systems GmbH, controlled by Siemens PLC and SIMATIC
+ 
+### SEPT 1996 –AUG 2003 (SINGAPORE) **Project Engineer** at MODUVEYOR PTE LTD.-(Project Based Engineering Services for Industrial Packaging System) 
+- Carry out designs, installations, and commissioning, preventative maintenance for the automatic conveyor system in various industries (Food & Packaging, Personal Products, Pharmaceuticals, Paper Products and Electrical & Industrial Products), including electric, PLC programmer. 
+- Managing small teams (internal and Client stakeholders) during engagements. Leading teams and supporting high levels of performance and conducting work efforts as needed: prioritizing conflicting demands/needs.
+- Managing project financials – budget, timeline, expenses, staffing.
+ **Accomplishments：**
+- Design, installation and commissioning the production lines for total 600 meters in 9 production lines for HP printer cartridge.
+- Design, installation and commissioning the production lines for total 400 meters in 2 production lines for the Energizer battery.
+
 
 ## EDUCATION	
-### JUL 1978 – JUL 1982
-	BACHELOR OF INDUSTRIAL AUTOMATION ENGINEERING(B.ENG) 
-XI'AN JIAOTONG UNIVERSITY (CHIAN)
-Related Coursework: Electronics & electrical circuits, Automation technology, Open & Closed Loop Control, Logical Sequence Controls, AC/DC Motor Controls, Converters and Inverters, etc.
-### MAY 2010 – MAY 2012
-	ADVANCED DIPLOMA IN INDUSTRIAL ENGINEERING & MANAGEMENT
-NGEE ANN POLYTECHNIC (SINGAPORE)
-Related Coursework: Project Management, Technology Management, Quality
+ **BACHELOR OF INDUSTRIAL AUTOMATION ENGINEERING(B.ENG)**
+- XI'AN JIAOTONG UNIVERSITY (CHIAN)
+- Related Coursework: Electronics & electrical circuits, Automation technology, Open & Closed Loop Control, Logical Sequence Controls, AC/DC Motor Controls, Converters and Inverters, etc.
+
+ **ADVANCED DIPLOMA IN INDUSTRIAL ENGINEERING & MANAGEMENT**
+- NGEE ANN POLYTECHNIC (SINGAPORE)
+- Related Coursework: Project Management, Technology Management, Quality
 Engineering, Operations Research, Productivity & Performance Mgmt.
 
 ## AWARDS	
-- •	Science and Technology Achievement Award ：For design production line in my Company at Apr,1990
-- •	Utility Model Patent: Eugenics Quick Calculation Oct 1995 obtained.
+- Science and Technology Achievement Award ：For design production line in my Company at Apr,1990
+- Utility Model Patent: Eugenics Quick Calculation Oct 1995 obtained.
 
 ## LANGUAGE	English (Advanced); Chinese (Native)
 
 ## INTERESTS	Music; Football; Hiking
 ## TECHNICAL TRAINING	
-1. Repairing and calibration for communication instruments at “TEMPO Company” (USA San Diego) Apr 2002 
-2. Patient Monitor Service training at Philips Healthcare (Singapore). Nov 2015.
-3. Yours Hands at the Heart of Improving Outcomes at Zoll Medical USA. Jan 2016
-4. Procurement Officers at Civil Service College. Jan 2016.
-5. Terufusion Global Pump Type LM/SS at TERUMO BCT (ASIA PACIFIC) LTD. Feb 2016
-6. Writing Dynamics at SIM University. March 2016.
-7. GE Recharge Clinical Excellence for Non-Clinicians at GE HEALTHCARE PTE LTD. May 2016
-8. Noninvasive Blood Pressure Tester Prosim4 at NUH July 2016
-9. Electrical Safety Analyzers 601/288 at NUH. July 2016.
-10. CPR+AED Certificate. Sept 2016.
-11. Covidien Covidien Ventilators. Dec 2016
-12. GE Partnership Trainings - (LSS) Aestiva, Aespire, S/5 monitor. Feb 2017
-13. MS-Excel --ICDL/ECDL Advanced MS-Excel training at IT And Business Management (ITBM), Safety And Health, Environment And Quality (SHEQ).
-14. LCCI (London Chamber of Commerce and Industry) English for Business Level 2 Aug 2007 (Singapore)
-15. SIEMENS PLC training at Siemens Advanced Engineering Pte Ltd Apr 2011
-16. Zoll Resuscitation Technology Aug 2017 
-17. EQ Peak performance. Nov 2017
+- Repairing and calibration for communication instruments at “TEMPO Company” (USA San Diego) Apr 2002 
+- Patient Monitor Service training at Philips Healthcare (Singapore). Nov 2015.
+- Yours Hands at the Heart of Improving Outcomes at Zoll Medical USA. Jan 2016
+- Procurement Officers at Civil Service College. Jan 2016.
+- Terufusion Global Pump Type LM/SS at TERUMO BCT (ASIA PACIFIC) LTD. Feb 2016
+- Writing Dynamics at SIM University. March 2016.
+- GE Recharge Clinical Excellence for Non-Clinicians at GE HEALTHCARE PTE LTD. May 2016
+- Noninvasive Blood Pressure Tester Prosim4 at NUH July 2016
+- Electrical Safety Analyzers 601/288 at NUH. July 2016.
+- CPR+AED Certificate. Sept 2016.
+- Covidien Covidien Ventilators. Dec 2016
+- GE Partnership Trainings - (LSS) Aestiva, Aespire, S/5 monitor. Feb 2017
+- MS-Excel --ICDL/ECDL Advanced MS-Excel training at IT And Business Management (ITBM), Safety And Health, Environment And Quality (SHEQ).
+- LCCI (London Chamber of Commerce and Industry) English for Business Level 2 Aug 2007 (Singapore)
+- SIEMENS PLC training at Siemens Advanced Engineering Pte Ltd Apr 2011
+- Zoll Resuscitation Technology Aug 2017 
+- EQ Peak performance. Nov 2017
