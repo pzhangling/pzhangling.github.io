@@ -12,11 +12,8 @@ body {
 
 <h1>Patrick Zhang Ling</h1>
 </style>
-
-Inline-style: 
-![alt text](<img src="https://sqstia.ch.files.1drv.com/y4mZwkFf-RO1Ci6UOJpNPUNsaRiES8XJ3Yhn36Jm8qcuS8tjF2KhZvoJGcjZ--DVd4FEhNhhgSD9Q6NgffMFLW5bjn__Rzm0GVCbMId-y_pZpZa86jz7etP4tTqLFpOXf0X8QLo4LbuWOXb7e8rWxCdblpAuE8DZ4BWYvyn76Q-wi6RGbaoJvpdVfuLVZwGVubrdgHSXDtrbieW4d3M2lLqyA?width=204&height=256&cropmode=none" width="204" height="256" /> "Logo Title Text 1")
-
-<p>Begin with 13 years of experiences in electrical engineering, training & development management in the Manufacturing Industrial. Follow by 10 years of field service experiences in installation/commissioning /repair/ maintenance for the electrical/ mechanic industrial equipment, ability to analyze and address most potential equipment failures. Other experience include project management, sourcing management and contract management.</p>
+![editormd-screenshot]
+(<img src="https://rqstia.ch.files.1drv.com/y4mZVTSxeIV8JFRqLvbR9RZOpEzr93yeAEtx0YpcFaK-wcdNV9cffKfvbwTcOzthKJDcEYH2JXslT9fQMgNK75kQh4ArnZkJevlC4hGTFZFE5lYSOwE4RQWq5KiKW2APYLs1gVTNhqvWo4zLlyZVnXkTSn7m5K5L16Wo62HDIxCqL6sO3rNTVcqznL05anQmIS2FKfB7UxukMPiJE3nMcTpOA?width=777&height=334&cropmode=none" width="777" height="334" /> "editormd-screenshot")
 
 </html>
 
