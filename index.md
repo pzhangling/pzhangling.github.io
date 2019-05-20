@@ -99,12 +99,13 @@ Participate in the planning of hospital medical equipment, drafting the technica
 Engineering, Operations Research, Productivity & Performance Mgmt.
 
 ## AWARDS	
-- Science and Technology Achievement Award ：For design production line in my Company at Apr,1990
-- Utility Model Patent: Eugenics Quick Calculation Oct 1995 obtained.
+- Science and Technology Achievement Award ：For design production line in my Company
+- Utility Model Patent: Eugenics Quick Calculation
 
 ## LANGUAGE	  **English (Advanced); Chinese (Native)**
 
 ## INTERESTS	 **Music; Football; Hiking**
+
 ## TECHNICAL TRAINING	
 - Repairing and calibration for communication instruments at “TEMPO Company” (USA San Diego) Apr 2002 
 - Patient Monitor Service training at Philips Healthcare (Singapore). Nov 2015.
