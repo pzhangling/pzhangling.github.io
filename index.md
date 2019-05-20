@@ -3,9 +3,9 @@
 <title>Patrick</title>
 <style>
 body {
-  background-color: black;
-  text-align: center;
-  color: white;
+  background-color: white;
+  text-align: left;
+  color: black;
 }
 </style>
 </head>
