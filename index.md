@@ -11,8 +11,8 @@ body {
 </head>
 
 <h1>Patrick Zhang Ling</h1>
-E-mail: *a.zhang.patrick@gmail.com*
-Tel: *+65-97556905*
+E-mail: #### a.zhang.patrick@gmail.com
+Tel: #### +65-97556905
 
 <img src="https://rqstia.ch.files.1drv.com/y4mQXj7a_RpOvZY0iHpm9VVdXOQdeopSXS0hk_XHzAUtZsu2L7b_oZhEcC4Cmte7K9wFxJHcm0Ri4l61LE9_-1r6OLeoWGg-wJVM9BH4enodNEx8VmmyTGfBmTGoL31AN30lKREOeGiPE2taYYaH1CrwVbLkL9aEip1T_W17HQTdo7GH4ozaOYHVyEMCHDrLD2fDq6Kyu651PqLqYab7xd3Ig?width=802&height=312&cropmode=none" width="802" height="312" />
 
