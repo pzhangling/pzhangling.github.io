@@ -14,7 +14,7 @@ body {
 
 </html>
 
-E-mail: ++a.zhang.patrick@gmail.com++
+E-mail: <a hreh="mailto:a.zhang.patrick@gmail.com? subject=About your CV and Jobs"> a.zhang.patrick@gmail.com</a>
 
 Tel: **+65-97556905**
 
