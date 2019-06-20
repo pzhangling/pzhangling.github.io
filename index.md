@@ -30,7 +30,7 @@ Tel: **+65-97556905**
 - Project Management
 - Quality Management
 - Problem Solving & Analytic
-- Vendor Manager.
+- Vendor Management.
 - Excellent Customer Relationship
 - Planning & Organizing Skill
 - Leadership & Team Management
