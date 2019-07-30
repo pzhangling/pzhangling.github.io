@@ -39,7 +39,7 @@ Tel: **+65-97556905**
 ## EXPERIENCE
 
 ###  **Senior Engineer** at NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)  
-#### JAN 2015-NOV 2018 (SINGAPORE) 
+#### JAN 2015-MAR 2019 (SINGAPORE) 
 - Provide failure analysis and technical support for clinical equipment. 
 - Installation, commissioning, maintenance and repair the electrical and mechanical equipment and systems for the clinical users.
 - Manage all facets of project (budget, schedule, procurement, bid specifications, analysis of vendor proposals, installation planning, acceptance testing, renovations, equipment upgrades, and quality & risk management). 
