@@ -62,7 +62,7 @@ Participate in the planning of hospital medical equipment, drafting the technica
 
 <img src="https://sastia.ch.files.1drv.com/y4mafAQA54qB3uA7_AppRknf5XM_2V_4mNbOK1qOnUg7xS6v_Dz1-2LCGogOJxrgQD-tBD0Pso6NT2pyLshJFkddPXfd1B5h-gdIXRTpFZQCVMtjqQyf8DrXjecl_qG0gf26VSLgSVau8hrhPymPoZlNQvPO97L1EqS4Plt8qvA1YbjWJZB6ufUeDVY3I4l-2T0wlcbLQtH5JA8GUYbz53FJQ?width=875&height=354&cropmode=none" width="910" height="330" />
 
-### **Senior Field Service Engineer** at ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
+### **Key Account Manager** at ALUPUTER INDUSTRIAL PTE LTD.-(Mechanical Manufacturing Industrial)
 #### SEPT 2008-JAN 2015 (SINGAPORE)
 - To provide problem-solving, troubleshooting for the surgical microscopes parts and modules, and follow-up for customer’s issues.
 - Onsite and remote service support for diagnosing and analyzing causes of production failures and write the reports that describe in detail of the system and device failure and actions taken. Review the system problem and solution with the Design Engineering department.
