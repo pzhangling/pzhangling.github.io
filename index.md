@@ -30,13 +30,27 @@ Tel: **+65-97556905**
 - Project Management
 - Quality Management
 - Problem Solving & Analytic
-- Vendor Management.
+- Regional Technical Support.
 - Excellent Customer Relationship
 - Planning & Organizing Skill
 - Leadership & Team Management
 
 
 ## EXPERIENCE
+
+###  **Senior Regional Technical Support Engineer** at Cardinal Health Singapore 225 Pte Ltd (Integrated Healthcare Services and Products company)  
+#### NOV 2019-PRESENT (SINGAPORE) 
+- Technical support for the APAC regional service center.
+- Ensures the availability of resources and manpower to support the needs of the Singapore training center, and business units for onsite and remote product support.
+- Continuously assess existing installation base, product pipeline, and technical support footprint, and formulate plans to optimize footprint in light of existing and future product portfolio with cost-benefit analysis.
+- Work with the service operations team to leverage existing customer contract center footprint.
+- Formulate annual budget for manpower, OPEX, and CAPEX, to accommodate new product launches and training.
+- Build key relationships within sales and marketing to determine support levels required for the coming year.
+- Build key relationships with the country service & repair leadership and technical support teams to leverage our network of expertise across the region.
+- Develop a performance measurement framework in order to track the effectiveness of existing and future training programs.
+- Ensure compliance with all relevant company policies by the internal team, contract, and 3rd party resources. Leads by example.
+- Promote the usage of automated resources
+
 
 ###  **Senior Engineer** at NATIONAL UNIVERSITY HOSPITAL (BIOMEDICAL ENGINEERING DEPARTMENT)  
 #### JAN 2015-MAR 2019 (SINGAPORE) 
